@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mirql
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning CS, EE, ML
+- 💞️ I’m looking to collaborate on ...
+- 📫 PM me at tg @mrmirql
