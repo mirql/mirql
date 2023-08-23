@@ -1,3 +1,4 @@
-- 👋 Hi
+# Hello World 🗺️
 
-tg @mrmirql
+- 🐾 [mirql.com](https://mirql.com/)
+- Telegram - [@mrmirql](https://t.me/mrmirql)
